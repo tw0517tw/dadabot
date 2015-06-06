@@ -1,1 +1,1 @@
-web: bin/hubot -a slack --name "大大"
+web: bin/hubot -a slack
