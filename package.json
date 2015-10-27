@@ -4,6 +4,9 @@
   "private": true,
   "author": "tw0517tw <tw0517tw@gmail.com>",
   "description": "worship dada",
+  "scripts": {
+    "test": "echo ok"
+  },
   "dependencies": {
     "hubot": "^2.13.0",
     "hubot-diagnostics": "0.0.1",
@@ -23,6 +26,6 @@
     "hubot-youtube-v3": "^0.1.3"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "4.2.1"
   }
 }
